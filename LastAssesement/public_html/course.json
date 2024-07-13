@@ -1,0 +1,175 @@
+{
+   "courses":[{
+            
+            "id":1,
+            "type":"undergraduate",
+            "name":"Allied Health Professional (AHP) Support Worker CPD",
+            "overview":"This course is aimed at AHP support workers who are looking to develop and progress in their current role.",
+            "highlights":["Fully flexible and bespoke learning as courses can be accessed as individual days depending on skill levels.", "UON CPD Certification awarded upon completion.", "Course delivered by the experienced and skilled Physiotherapy Lecturer, Pierre Bonnaud", "Courses run regularly throughout the year."],
+            "course_details":"This CPD course is based on contemporary, clinical and educational evidence.  It is delivered in an engaging way by linking content, discussions and tasks relating to current professional practice and challenges.  During the 5 days, you will explore the wider health and social care system and how to support families and service users through their care.  You will identify communication approaches, develop an understanding of leadership and supervision and understand how this supports your own development and the development of others.",
+            "entry_requirements":"This CPD is targeted at AHP support workers aspiring to work at ‘Assistant Practitioner’ level of the AHP support worker framework and is accessed through your organisation/employer.",
+            "fees_and_funding":"Please contact Pierre by email: Pierre.Bonnaud@northampton.ac.uk for queries relating to fees and pricing. Our standard prices are:",
+            "price_int":704.31,
+            "price_uk":600,
+            "price_us":760.94,
+            "student_perks":"Based on the principles of leadership and management, this one-day course is aimed at AHP Support Workers who will be supporting AHP Students. This course explores the concept of supervision and mentoring and the place of AHP Support Workers in supporting the learning of others through investigating theories of learning and how to translate into practice.",
+            "Integrated_Foundation_Year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements, we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award on the Animation degree course.",
+            "image_url":"../images/ahp.jpg"
+         },
+        
+       { 
+            "id":2,
+            "type":"undergraduate",
+            "name":"Animation BA (Hons)",
+            "overview":"The BA Animation degree at the University of Northampton focuses on preparing students for a career in animation, including specialist areas such as motion capture, visual effects, storyboarding, 2D and 3D animation for video games and narrative development.",
+            "highlights":["Up to date workstation hardware and software, including Wacom Cintiq Pros.", "Opportunities to take part in live projects and competitions for BA animation students.", "Guest lectures that provide the opportunity to meet with industry specialists. Recent visitors have included: Aardman Animations, Naughty Dog, Rare, Unity, Splash Damage, Playground Games, Codemasters, Ubisoft, and Sony.", "Opportunities to visit digital industry events such as EGX Rezzed and take part in national student competitions such as Brains Eden or Tranzfuser"],
+            "course_details":"Throughout your BA Animation degree, you will focus on the production of professional standard animation and visual effects for a variety of digital media, such as film, tv, web-based marketing and video games. You will also be exposed to the whole life cycle of animation production from the initial ideas process, through narrative development, to creation of the final production. You will work with industry-trained tutors to ensure you understand the requirements of animation production processes for specific media platforms and markets.",
+            "entry_requirements":"All selected applicants will be invited for a portfolio review and discussion. We welcome applications from students with a mix of A levels and BTEC/Cambridge Technical qualifications.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":10858.17,
+            "price_uk":9250,
+            "price_us":11731.17,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. If you join our full-time BA Animation degree at Northampton, you will receive a laptop when your course begins. The laptops are built to a bespoke custom specification ideal for use in the seminar room, collaborative group work or studying at home.",
+            "Integrated_Foundation_Year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements, we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award on the Animation degree course.",
+            "image_url":"../images/animation2.jpg"
+       },
+            
+        
+        {
+            "id":3,
+            "type":"undergraduate",
+            "name":"Artificial Intelligence and Data Science BSc (Hons)",
+            "overview":"Artificial intelligence and data science have a pivotal role in driving a new era of innovation in many fields. This includes computer science, public health, manufacturing, transportation, and many other areas. The BSc Artificial Intelligence and Data Science course at the University of Northampton equips students with degree-level research, design, and programming skills. Graduates in artificial intelligence and data science can then apply these concepts and techniques in the context of real-world industrial and business scenarios. Using a state-of-the-art AI lab, students develop and deploy applied AI solutions individually and as part of a team.",
+            "highlights":["Progression data science courses available on modern AI and machine learning", "The BSc Artificial Intelligence degree is a member of Amazon Web Services (AWS) Academy", "Emphasis on practical learning to help you develop your strength in the design and development of ethical and responsive AI solutions", "A state-of-the-art AI lab for teaching and learning"],
+            "course_details":"This degree in artificial intelligence and data science degree will equip you with a range of knowledge and practical skills required to establish your career. They can aid many career paths, such as a machine learning software engineer, solution architect, project manager or AI research scientist. You will learn the fundamentals and applications of data science and machine learning progressively over the course period.",
+            "entry_requirements":"Applicants will be expected to have achieved GCSE Mathematics (or equivalent) at grade C/4 or above. We welcome international applicants and applications from students with a range of non-traditional educational or professional qualifications, as well as applications from students with a mix of A levels and BTEC/Cambridge Technical qualifications.",
+            "fees_and_funding":"Fees quoted for the AI degree relate to study in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":10858.17,
+            "price_uk":9250,
+            "price_us":11731.17,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_Foundation_Year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree in Artifical Intelligence and Data Science, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/AI3.jpg"
+        },
+        
+        {
+            "id":4,
+            "type":"undergraduate",
+            "name":"Business Management BA (Hons)",
+            "overview":"The University of Northampton’s innovative BA (Hons) Business Management Degree, accredited by the Chartered Management Institute (CMI), takes a practical approach to exploring contemporary business practices, contexts and debates. You will engage with a broad range of business and management challenges and opportunities allowing you to develop in-depth knowledge alongside industry-relevant skills. The business management degree includes specialist modules that provide practical skills in areas such as strategy, marketing, leadership, risk management and sustainable business. Supported by expert academic staff, you will have access to local and multinational organisations, working on real-world projects to expand your experience and networks. With up to six pathway subjects to choose from, you will develop specialist skills ready for a graduate career or postgraduate study.",
+            "highlights":["Subject pathways at stage two and three of the Business Management degree, allowing you to specialise in your area of interest.", "Graduate with a Chartered Management Institute (CMI) Diploma in Management and Leadership*, a respected professional qualification proven to boost earnings potential.", "Free CMI membership during your studies and for a year after graduation, helping you to connect and network with employers and business professionals.", "Optional Year in Industry provides you with valuable experience and contacts to help launch your career after graduating."],
+            "course_details":"The BA Business Management degree provides strong insight into business administration and the operational workings of different types of organisations to enable both strategic and practical skills development.",
+            "entry_requirements":"We welcome applications from students with a mix of A levels and BTEC/Cambridge Technical qualifications.",
+            "fees_and_funding":"Fees quoted relate to study on the business management degree in the Academic Year 2024/25 only and may be subject to inflationary increases in future years.",
+            "price_int":10858.17,
+            "price_uk":9250,
+            "price_us":11731.17,
+            "accretidation":"This Business Management BA degree is accredited by, and work closely with, the Chartered Management Institute (CMI) which is the Charted Body for Management and Leadership. CMI work with business and education providers like ourselves to inspire people to become skilled, confident and successful managers and leaders.",
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your business management degree, find your strengths and secure practical experience so that when it comes to applying for jobs or further study you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_Foundation_Year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements, we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award on the Animation degree course.",
+            "image_url":"../images/MBA4.jpg"
+        },
+        
+        {
+            "id":5,
+            "type":"undergraduate",
+            "name":"Computer Science BSc (Hons)",
+            "overview":"Computer Science BSc (Hons) enables students to acquire a range of theoretical principles. This is done through engaging with concepts and theories, developing practical skills across the broad range of fields within the subject, and applying these in the creation of tools and systems to solve real world problems.",
+            "highlights":["Coverage of fundamental principles of computer science with plenty of practical applications.", "A state-of-the-art computer lab for teaching and learning.", "Opportunity to attend seminars/workshops/conferences with guest speakers and presenters from the local, national and international industry.", "Opportunity to attend seminars/workshops/conferences with guest speakers and presenters from the local, national and international industry."],
+            "course_details":"Our Computer Science BSc (Hons) degree gives you the opportunity to explore different ideas and develop innovative solutions to current issues in the computing industry. This three-year Computer Science degree will give you an insight into the computing industry, investigating the wide-reaching influences that computers and computing technology have on the world. Studying this course will also contribute towards helping you find your ideal path for a career in Computing.",
+            "entry_requirements":"Applicants will be expected to have achieved GCSE Mathematics (or equivalent) at grade C/4 or above. We welcome international applicants and applications from students with a range of non-traditional educational or professional qualifications.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":10858.17,
+            "price_uk":9250,
+            "price_us":11731.17,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/Computer5.jpg"
+        },
+        {
+            "id":6,
+            "type":"postgraduate",
+            "name":"Accounting and Finance (Top-Up) MSc",
+            "overview":"Our MSc Accounting and Finance (Top-up) aims to extend and enhance the understanding and competence gained via professional qualifications and to enhance the ability of students to think strategically about management and organisational change within accounting and finance.",
+            "highlights":["Converts professional qualifications like ACCA into an MSc/MA.", "Networking opportunities with other professionals.", "Distance learning is supported worldwide."],
+            "course_details":"This programme will broaden your specialist knowledge previously gained at a professional level, turning leading qualifications like ACCA into a recognised masters degree. In particular the module, ‘Accounting & finance research project’ guides you to research into the key challenges accounting and finance professionals face in the industry. This module aims to equip accounting and finance professionals with the necessary skills to undertake independent project work within a business context. The Research Methods element provides you with an introduction to research, types of research methodology, formulating and planning a research project, data collection, analysis and presentation of research findings based upon an actual industry specific or corporate focused topic.",
+            "entry_requirements":"If you have successfully completed professional qualifications such as AIA, ACA, ACCA, CIMA, ICAP or CPA Australia graduates then you will be eligible to apply for this course. Please note that some professional qualifications must be awarded on the basis of exams passes (without exemptions) in order to be accepted for entry onto this course.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":2846.60,
+            "price_uk":2425,
+            "price_us":3075.47,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/Finance6.jpg"
+        },
+        
+        {
+            "id":7,
+            "type":"postgraduate",
+            "name":"Business Analytics MSc",
+            "overview":"In today’s data-driven landscape, businesses are facing a pressing challenge: finding graduates who possess the right qualifications and skills to tackle complex analytical tasks. This demand for skilled business analysts continues to soar, creating a significant gap between the abilities of recent graduates and the requirements of employers. That’s where our cutting-edge MSc Business Analytics programme comes in.",
+            "highlights":["The course offers the opportunity to gain experience in the areas of Data Science in Practice, Emerging Technologies, Leadership and Digital Transformation, Forecasting and Decision Science.", "Participative and interactive activities designed to consolidate and develop students’ understanding,", "The programme benefits from guest lectures by industry and/or academic scholars in some of the modules."],
+            "course_details":"Throughout the course, you will delve into a wide range of topics, including data science tools and techniques, leadership skills, data visualisation for decision science, and project management concepts. You will also have the option to work on projects sponsored by the UK Ministry of Defence (MoD). With this diverse knowledge base at your disposal, you will be equipped to extract valuable insights from data, make informed decisions, and drive organisational success.",
+            "entry_requirements":"This course will be suitable for recent graduates of Business, Management, Information Systems, and Information Technology related degrees. It will also be appropriate for professionals employed in the business sector who wish to progress in their current roles.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 2024/25 only and may be subject to inflationary increases in future years.",
+            "price_int":9684.31,
+            "price_us":8250,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/BA7.jpg"
+        },
+        
+         {
+            "id":8,
+            "type":"postgraduate",
+            "name":"Computing (Internet Technology and Security) MSc",
+            "overview":"The University of Northampton’s Computing (Internet Technology and Security) MSc course allows you to study cyber security and cryptography. You will have the opportunity to develop your research and analytical skills.",
+            "highlights":["Access to PC and Linux workstation computers on the MSc Computing (Internet Technology and Security) course"],
+            "course_details":"Today’s society relies on computing and Internet technology. This creates a high demand for internet security products and services as well as people with the knowledge and expertise to design, implement and manage secure internet applications. While the University of Northampton’s Computing (Internet Technology and Security) MSc pathway is mostly technical in focus, you will also learn about the business context and develop interpersonal skills that are vital to problem solving in business.",
+            "entry_requirements":"Applicants for the master’s in Computing (Internet Technology Security) will normally hold a recognised first or second class honours degree from a UK university or international equivalent in a relevant subject. We expect that you will have a working knowledge of computers and networks and it is essential that you have practical hands-on experience of at least one programming language.",
+            "fees_and_funding":"Fees quoted relate to study MSc Computing (Internet Technology and Security) in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":9684.31,
+            "price_uk":8250,
+            "price_us":10462.93,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/MSC8.jpg"
+        },
+        
+         {
+            "id":9,
+            "type":"postgraduate",
+            "name":"Financial and Investment Analysis MSc",
+            "overview":"The University of Northampton’s MSc Financial and Investment Analysis will develop you into a specialist investment professional that can take up challenging roles in investment banking, risk management and fund management. This programme will prepare you to write the CFA® professional exams.",
+            "highlights":["Industry Placement Option available for the Financial and Investment Analysis MSc degree.", "Hands-on application of skills learnt through simulated trading via the Bloomberg terminals.", "Exemptions are available from main professional bodies ACCA and CIMA."],
+            "course_details":"MSc Financial and Investment Analysis provides in-depth theoretical and practical skills for specialist roles in the finance and investment industry. You will develop analytical and critical skills which enables you to tackle simulated real-life problems and challenges in the finance industry. Grounded in ethical and responsible approaches, this programme is aligned to investment and risk management professional bodies and responds to the demands and challenges of the dynamic financial services industry.",
+            "entry_requirements":"If you hold a recognised first or second class honours degree from a UK university or international equivalent in finance, banking, accounting or a related discipline then you will be eligible to apply for this course. If you hold professional qualifications you will also be considered for entry onto this course.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 24/25 only and may be subject to inflationary increases in future years.",
+            "price_int":9684.31,
+            "price_uk":8250,
+            "price_us":10462.93,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/FI9.jpg"
+        },
+        
+         {
+            "id":10,
+            "type":"postgraduate",
+            "name":"Human Resource Management MA",
+            "overview":"The aim of this masters in Human Resource Management is to develop you as an HR professional. You will be introduced to specialised knowledge and research evidence giving you an in depth understanding of successful people management in organisations. Perhaps more importantly, you will practice the tools and techniques of strategic and operational HRM giving you practical, insight-driven experience which will help further your career.",
+            "highlights":["CIPD accreditation and membership on completion of the MA Human Resource Management course."],
+            "course_details":"The Human Resource Management MA course modules are designed to provide you with expert knowledge of distinct HR subject areas combined with exposure to contemporary debates, policies and practices, keeping you at the forefront of developments in your field. You will develop an understanding of HRM within a range of organisational contexts, and you will be equipped with the analytical and diagnostic skills required of HR professionals in the workplace.",
+            "entry_requirements":"To study MA Human Resources Management at UON you will normally need to hold a recognised First or Second Class Honours degree from a UK University (or an international equivalent) in human resource management, or in a business related, commerce, management or related degree discipline.",
+            "fees_and_funding":"Fees quoted relate to study in the Academic Year 2024/25 only and may be subject to inflationary increases in future years.",
+            "price_int":9684.31,
+            "price_uk":8250,
+            "price_us":10462.93,
+            "student_perks":"At the University of Northampton, everything we do, from funded trips to paid internships, is to give you everything you need to make a difference when you leave. Whatever your ambitions, we’re here to help you to achieve them. We’ll support you to identify the skills you’re learning during your course, find your strengths and secure practical experience so that when it comes to applying for jobs or further study, you’ll feel confident in standing out from the crowd. We’ve created the Northampton Employment Promise because we are so confident that if you focus on your studies and complete one of our awards you’ll be highly employable by the time you graduate. Putting you in a great position to secure employment or continue your studies.",
+            "Integrated_foundation_year":"The Integrated Foundation Year (IFY) offers a new and exciting route into studying for a degree, attracting ambitious and driven students who are willing to learn and advance. If you have non-standard qualifications or do not quite meet the admissions requirements we can offer you a fantastic opportunity to study a four year programme which includes an Integrated Foundation Year. The Integrated Foundation Year will help you develop the theoretical/practical and academic skills you need, in order to successfully progress to the full award.",
+            "image_url":"../images/HR10.jpg"
+        }
+        
+         
+   ]
+}

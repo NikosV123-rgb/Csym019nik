@@ -1,0 +1,65 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://json-schema.org/draft/2020-12/schema",
+    "type":"array",
+    "items": {
+        "type": "course",
+        "properties":{
+            
+            "id":{
+                "type": "integer",
+                "description": "Course's id"
+            },
+            "undergraduate":{
+                "type": "boolean",
+                "description": "Undergraduate or Postgraduate Course"
+            },
+            "name":{
+                "type": "string",
+                "description": "Course's name"
+            },
+            "overview":{
+                "type": "string",
+                "description": "A summary of the course"
+            },
+            "highlights":{
+                "type": "string",
+                "description": "Important clues to know about the course"
+            },
+            "course_details":{
+                "type": "string",
+                "description": "Additional course details"
+            },
+            "entry_requirements":{
+                "type": "string",
+                "description": "Important certificates or qualifications etc required to begin the course"
+            },
+            "fees_and_funding":{
+                "type": "string",
+                "description": "A brief summary of what fees are required to sign up"
+            },
+            "price_int":{
+                "type": "integer",
+                "description": "Price in EUR"
+            },
+            "price_uk":{
+                "type": "integer",
+                "description": "Price in GBR"
+            },
+            "price_us":{
+                "type": "integer",
+                "description": "Price in USA"
+            },
+            "student_perks":{
+                "type": "String",
+                "description": "Some impressions and remarks by the students' community"
+            },
+            "Integrated_Foundation_Year":{
+              "type": "String",
+                "description": "IFY policy"
+            }
+        }
+    }
+}
+
+
