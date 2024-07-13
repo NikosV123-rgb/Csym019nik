@@ -1,0 +1,112 @@
+<html>
+    <head>
+        <title>Northampton</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="chartMenu">
+            <p> Course Report</p>
+        </div>
+        <div class="chartCard">
+            <div class="chartBox">
+                <canvas id="myChart"></canvas>
+                <select onchange="courseData(this)">
+                    <option value="Animation BA">Animation BA</option>
+                    <option value="AI">Artificial Intelligence</option>
+                    <option value="BA">Business Management</option>
+                </select>
+                <input type="checkbox" value="0" onchange="updateChart(this)"> Animation BA
+                <input type="checkbox" value="1" onchange="updateChart(this)"> Artificial Intelligence
+                <input type="checkbox" value="2" onchange="updateChart(this)"> Business Management
+            </div>
+            </div>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script>
+            const data = {
+                labels:['Module1', 'Module2', 'Module3', 'Module4', 'Module5', 'Module6'],
+                datasets: [{
+                        label: 'Credits Animation BA',
+                        data: [
+                            {x: 'Module1', credits: 20},
+                            {x: 'Module2', credits: 20},
+                            {x: 'Module3', credits: 20},
+                            {x: 'Module4', credits: 20},
+                            {x: 'Module5', credits: 20},
+                            {x: 'Module6', credits: 20}
+                            ],
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                          borderWidth: 1
+                },{
+                        label: 'Credits AI',
+                        data: [
+                            {x: 'Module1', credits: 20},
+                            {x: 'Module2', credits: 20},
+                            {x: 'Module3', credits: 40},
+                            {x: 'Module4', credits: 20},
+                            {x: 'Module5', credits: 40},
+                            {x: 'Module6', credits: 20}
+                            ],
+                        backgroundColor: 'rgba(255, 26, 104, 0.2)',
+                        borderColor: 'rgba(255, 26, 104, 1)',
+                          borderWidth: 1
+                },{
+                        label: 'Credits BM',
+                        data: [
+                            {x: 'Module1', credits: 20},
+                            {x: 'Module2', credits: 40},
+                            {x: 'Module3', credits: 20},
+                            {x: 'Module4', credits: 40},
+                            {x: 'Module5', credits: 20},
+                            {x: 'Module6', credits: 40},
+                            ],
+                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                          borderWidth: 1
+                }]
+            };
+            
+            const config = {
+                type: 'bar',
+                data,
+                options:{
+                    parsing:{
+                        xAxisKey: 'x',
+                        yAxisKey: 'credits'
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            };
+            
+            const myChart = new Chart(
+      document.getElementById('myChart'),
+      config
+    );
+    
+    function courseData(course){
+        console.log(course.value);
+        myChart.config.options.parsing.yAxisKey = course.value;
+        myChart.update();
+    }
+    
+    function updateChart(dataset){
+        const isDataShown = myChart.isDatasetVisible(dataset.value);
+        console.log(isDataShown)
+        if(isDataShown === false) {
+            myChart.show(dataset.value);
+        }
+        if(isDataShown === true) {
+            myChart.hide(dataset.value);
+        }
+    }
+    </script>
+    </body>
+    </html>
